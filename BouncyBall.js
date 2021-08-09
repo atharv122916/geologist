@@ -7,18 +7,18 @@ class BouncyBall{
 		// 	density:1
 		// }
 
-		  var options={
-		  restitution:5,
-		  friction:5
-	      density:20
+		 // var options={
+		 // restitution:5,
+		  //friction:5
+	     // density:20
 		 }
 
 
-		// var options={
-		// 	restitution:0.3,
-		// 	friction:5,
-			//density:1
-		// }
+		 var options={
+			restitution:0.3,
+			friction:5,
+			density:1
+		}
 
 		// var options{
 		// 	restitution:5,
